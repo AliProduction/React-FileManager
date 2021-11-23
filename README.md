@@ -1,4 +1,4 @@
-# React-FileManager with Backend
+# React File Manager with Backend
 React File Management System with React and Node JS (fs).
 
 Here you have my first project that I programmed with React and Node JS (fs). I have included pictures below. I recommend the code more for people who are familiar with React.
