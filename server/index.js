@@ -48,17 +48,3 @@ app.post("/api/addfile", (req, res) => {
 app.listen(3333, () => {
   console.log("Server läuft mit dem Port 3333 => Ali");
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
